@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 # 📊 GitHub Stats:
 [![](https://visitcount.itsvg.in/api?id=borchand&icon=0&color=3)](https://visitcount.itsvg.in)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=borchand&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=borchand&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
