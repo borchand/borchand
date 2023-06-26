@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently studying BSc in Data Science at ITU
-- 🔭 I’m currently working as a student worker at PensionsPartner 
+- 🔭 I’m currently working as a student developer at PensionsPartner 
 
 
 ## 🌐 Socials:
